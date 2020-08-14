@@ -3,7 +3,7 @@
 ## O que você encontra aqui ##  
 
 Olá! Esses são alguns dos scripts que utilizei para limpar e trabalhar com os dados da Câmara dos Deputados de projetos de lei que tratam dos direitos das mulheres.
-Veja todas as reportagens <a href="https://www.elasnocongresso.com.br/acompanhe" title="aqui">an example</a> 
+Veja todas as reportagens <a href="https://www.elasnocongresso.com.br/acompanhe" title="Elas no Congresso">aqui</a> 
 
 # Regex #
 
