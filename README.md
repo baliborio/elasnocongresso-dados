@@ -10,7 +10,7 @@ No arquivo <a href="https://github.com/baliborio/elasnocongresso-dados/blob/mast
 
 ## Tabelas dinâmicas e visualizações ##
 
-Já no <a href="https://github.com/baliborio/elasnocongresso-dados/blob/master/tabelasdinamicas_visualizacoes.ipynb"> tabelasdinamicas_visualizacoes.ipynb</a> você pode ver alguns exemplos de tabelas dinâmicas e visualizações básicas que usamos com as bases de dados desses temas específicos. Aqui, no caso, com a base de dados de projetos que citam Lei Maria da Penha.
+Já no <a href="https://github.com/baliborio/elasnocongresso-dados/blob/master/tabelasdinamicas_visualizacoes.ipynb"> tabelasdinamicas_visualizacoes.ipynb</a> você pode ver alguns exemplos de tabelas dinâmicas e visualizações básicas que usamos com as bases de dados desses temas específicos. Aqui, no caso, com a base de dados de projetos que citam Lei Maria da Penha e usamos para essa matéria <a href="https://azmina.com.br/reportagens/projetos-de-lei-para-alterar-lei-maria-da-penha-disparam-no-congresso/">aqui</a>.
 
 ## De onde surgiram esses dados? ##
 
