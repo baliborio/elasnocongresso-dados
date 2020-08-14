@@ -6,11 +6,11 @@ Olá! Esses são alguns dos scripts que utilizei para limpar e trabalhar com os 
 
 ## Regex ##
 
-No arquivo selecionadoprojetosportema_regex.ipynb você pode ver como fizemos para selecionar os projetos de lei que tratam especificamente dos temas que trabalhamos nas reportagens: aborto, violência contra a mulher a participação política, por exemplo. Utilizando regex, selecionamos apenas projetos de lei com termos específicos.
+No arquivo <a href="https://github.com/baliborio/elasnocongresso-dados/blob/master/selecionadoprojetosportema_regex.ipynb">selecionadoprojetosportema_regex.ipynb</a> você pode ver como fizemos para selecionar os projetos de lei que tratam especificamente dos temas que trabalhamos nas reportagens: aborto, violência contra a mulher a participação política, por exemplo. Utilizando regex, selecionamos apenas projetos de lei com termos específicos.
 
 ## Tabelas dinâmicas e visualizações ##
 
-Já no tabelasdinamicas_visualizacoes.ipynb você pode ver alguns exemplos de tabelas dinâmicas e visualizações básicas que usamos com as bases de dados desses temas específicos. Aqui, no caso, com a base de dados de projetos que citam Lei Maria da Penha.
+Já no <a href="https://github.com/baliborio/elasnocongresso-dados/blob/master/tabelasdinamicas_visualizacoes.ipynb"> tabelasdinamicas_visualizacoes.ipynb</a> você pode ver alguns exemplos de tabelas dinâmicas e visualizações básicas que usamos com as bases de dados desses temas específicos. Aqui, no caso, com a base de dados de projetos que citam Lei Maria da Penha.
 
 ## De onde surgiram esses dados? ##
 
